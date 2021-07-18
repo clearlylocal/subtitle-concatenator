@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/subtitle-concatenator/static/css/main.83fa937b.chunk.css",
-    "main.js": "/subtitle-concatenator/static/js/main.babe92c0.chunk.js",
-    "main.js.map": "/subtitle-concatenator/static/js/main.babe92c0.chunk.js.map",
+    "main.js": "/subtitle-concatenator/static/js/main.ee1b773d.chunk.js",
+    "main.js.map": "/subtitle-concatenator/static/js/main.ee1b773d.chunk.js.map",
     "runtime-main.js": "/subtitle-concatenator/static/js/runtime-main.cad8d9f9.js",
     "runtime-main.js.map": "/subtitle-concatenator/static/js/runtime-main.cad8d9f9.js.map",
-    "static/js/2.d5144f38.chunk.js": "/subtitle-concatenator/static/js/2.d5144f38.chunk.js",
-    "static/js/2.d5144f38.chunk.js.map": "/subtitle-concatenator/static/js/2.d5144f38.chunk.js.map",
+    "static/js/2.60a548d5.chunk.js": "/subtitle-concatenator/static/js/2.60a548d5.chunk.js",
+    "static/js/2.60a548d5.chunk.js.map": "/subtitle-concatenator/static/js/2.60a548d5.chunk.js.map",
     "index.html": "/subtitle-concatenator/index.html",
     "static/css/main.83fa937b.chunk.css.map": "/subtitle-concatenator/static/css/main.83fa937b.chunk.css.map",
-    "static/js/2.d5144f38.chunk.js.LICENSE.txt": "/subtitle-concatenator/static/js/2.d5144f38.chunk.js.LICENSE.txt"
+    "static/js/2.60a548d5.chunk.js.LICENSE.txt": "/subtitle-concatenator/static/js/2.60a548d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cad8d9f9.js",
-    "static/js/2.d5144f38.chunk.js",
+    "static/js/2.60a548d5.chunk.js",
     "static/css/main.83fa937b.chunk.css",
-    "static/js/main.babe92c0.chunk.js"
+    "static/js/main.ee1b773d.chunk.js"
   ]
 }
